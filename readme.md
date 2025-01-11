@@ -27,14 +27,6 @@ Esta é uma aplicação Python simples que permite aos usuários remover o fundo
    ```
 
 ## Uso
-### Usando o Executável para Windows
-1. Baixe o executável `remove_background.exe` localizado no diretório `executavel\`.
-2. Execute o arquivo `remove_background.exe` para iniciar a aplicação.
-3. Use a GUI para selecionar uma imagem.
-4. Clique no botão "Processar Imagem" para remover o fundo.
-5. Clique no botão "Salvar Imagem" para salvar a imagem processada.
-
-### Usando o Código Fonte
 1. Execute a aplicação:
    ```bash
    python main.py
