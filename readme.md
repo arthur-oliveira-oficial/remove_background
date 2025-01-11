@@ -49,4 +49,4 @@ Esta é uma aplicação Python simples que permite aos usuários remover o fundo
 Contribuições são bem-vindas! Por favor, faça um fork do repositório e envie um pull request com suas alterações.
 
 ## Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a Licença MIT.
